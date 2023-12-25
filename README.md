@@ -2,7 +2,7 @@
 
 Online store wrtitten with PHP
 <br>
-**No focus on the UI beauty only functionality** 
+**_No focus on the UI beauty only functionality_** 
 <br>
 <br>
 On the first page, the products that can be purchased are displayed with product name, a short description, price and a "shopping cart". The products are stored in a database on the web server. You must create an account and log in to order an item, so if you try to add an item without being logged in, you will be sent to the login page.
